@@ -1,1 +1,1 @@
-i love my first readme
+i just love my first readme
